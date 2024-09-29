@@ -1,0 +1,12 @@
+LTspice 24.0.12 for Windows
+Circuit: * E:\Final Year Project\LTspice Simulation\Buck.asc
+Start Time: Fri Sep 27 16:43:54 2024
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v_pulse.  Increasing period to 1.0002e-05
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 1.880 seconds.
+

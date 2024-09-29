@@ -1,0 +1,8 @@
+"Study on the Behavior of DC-DC Converter under Open Loop and Closed Loop Conditions"
+
+https://www.circuitgeeks.com/arduino-pwm/
+
+https://www.mdpi.com/2079-9292/11/11/1693
+https://www.mdpi.com/2673-4591/70/1/8
+
+https://www.youtube.com/watch?v=wNOpmnzku4M&ab_channel=JTECH
